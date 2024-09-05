@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+QzrQ06oj+JpF8eVrIJMVaCm86+25cxLd2MqRq62HuAf0qIZ4oRnovYatPU9dzDgqSLmnbkwiTJ/jFoL92I4zg==",
+  "dgSpecHash": "+PxFHc8bvWOf8jYdtt/thYnNzeG4kt0xoKhaAuItziVccWbJgOlzy6F0s6kvjxUdDP3MEOgIFcG4EnGqnvzZwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\amori\\Desktop\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/dhemari/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+  "expectedPackageFiles": [
+    "/Users/dhemari/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/dhemari/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/dhemari/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }
