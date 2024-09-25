@@ -2,27 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f6f65e1-da52-4f6c-a86d-57c32878c68d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/obj/ChallengesWithTestsMark8.Tests.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ChallengesWithTestsMark8.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ChallengesWithTestsMark8.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/ChallengesWithTestsMark8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/ChallengesWithTestsMark8.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net6.0/ChallengesWithTestsMark8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net6.0/ChallengesWithTestsMark8.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net6.0/ChallengesWithTestsMark8.Tests.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChallengesWithTestsMark8/ChallengesSet01.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ChallengesWithTestsMark8/ChallengesSet01.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/ChallengesWithTestsMark8.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/ChallengesWithTestsMark8.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/ChallengesWithTestsMark8.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/ChallengesWithTestsMark8.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/ChallengesWithTestsMark8.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChallengesWithTestsMark8.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/../ChallengesWithTestsMark8.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChallengesWithTestsMark8/ChallengesSet02.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../ChallengesWithTestsMark8/ChallengesSet02.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,34 +21,35 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "milton3128"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;milton3128&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:milton3128/WeeklyChallenges.git",
-    "accountId": "f449af3c-54d3-4804-9e83-f95b08fe71a6"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:milton3128/WeeklyChallenges.git&quot;,
+    &quot;accountId&quot;: &quot;f449af3c-54d3-4804-9e83-f95b08fe71a6&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2lflakYCwKfbAEDgxXgxg1stAp1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,6 +59,11 @@
       <option name="presentableId" value="Default" />
       <updated>1725579076376</updated>
       <workItem from="1725579077510" duration="22000" />
+      <workItem from="1726704980812" duration="23000" />
+      <workItem from="1727226675460" duration="5000" />
+      <workItem from="1727226736084" duration="16000" />
+      <workItem from="1727226783575" duration="33000" />
+      <workItem from="1727226895257" duration="7000" />
     </task>
     <servers />
   </component>
